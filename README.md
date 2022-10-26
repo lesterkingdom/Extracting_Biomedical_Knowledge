@@ -3,12 +3,9 @@
 Group Assignment for 2022/02 Imperial College London Data Science Winter School
 
 
-Collaborator:
-
+Collaborators:
           Zixin LIN,
-          
           Fangcheng GUO,
-          
           Ruoxi NING
           
           
